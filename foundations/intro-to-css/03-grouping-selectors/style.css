@@ -1,14 +1,16 @@
 /* Add CSS Styling */
-.first {
+.on-your-left,
+.to-the-right {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.on-your-left {
     background-color: #000000;
     color: #ffffff;
 }
 
-.second {
+.to-the-right {
     background-color: rgb(255,255,0);
 }
 
-.both {
-    font-size: 28px;
-    font-family: Helvetica, 'Times New Roman', sans-serif;
-}
